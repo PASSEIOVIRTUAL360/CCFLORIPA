@@ -1,0 +1,59 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_97455FE4_9961_A489_41D8_21D29069E413.source = https://api.whatsapp.com/send/?phone=5548984325921
+LinkBehaviour_94CEA6E1_9962_E48B_41A4_41A65B9D65E0.source = https://api.whatsapp.com/send/?phone=5548984325921
+LinkBehaviour_129D1E36_0A00_2F08_4172_7E163547EB62.source = https://api.whatsapp.com/send?phone=5548991534224
+LinkBehaviour_1D77E9EA_0A00_151B_4190_8DB1CECBADA6.source = https://api.whatsapp.com/send?phone=5548991534224
+LinkBehaviour_133573C6_C521_A23A_41E7_3F4B97C676EE.source = https://www.facebook.com/LikeStartDoing
+LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/LikeStartDoing
+LinkBehaviour_9D62E150_BB35_E9D0_41E3_B6D3E966219D.source = https://www.instagram.com/likestartdoing/
+LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/likestartdoing/
+LinkBehaviour_19B44A51_0A03_F709_419B_1DB947E1EE0F.source = https://www.instagram.com/thiago360graus/
+LinkBehaviour_1228920D_0A00_1718_41A0_42F8D0BB7CB4.source = https://www.instagram.com/thiago360graus/
+LinkBehaviour_363F064C_C521_A2CE_41B6_71367E0A1E62.source = https://www.startdoing.com.br/
+LinkBehaviour_2078C997_C52E_AE5B_41E3_D171E362FCF5.source = https://www.startdoing.com.br/
+LinkBehaviour_6F772275_70C9_09AC_41DA_FC1732F8B936.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg
+LinkBehaviour_667A7A6D_70C9_19BC_41D8_F139152F700E.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg/videos
+
+## Media
+
+### 360 Video
+
+### Title
+media_4E184C27_429D_4D09_41C0_CFB19E48657F.label = 001
+media_48618459_429D_3D39_41D0_3270EF9C9B3A.label = 002
+media_48658828_429D_3507_41BD_BCE16180B559.label = 003
+
+### Video
+videores_5013A48B_42A5_3D19_41AA_2DAD1006914C.posterURL = media/media_48618459_429D_3D39_41D0_3270EF9C9B3A_poster_pt.jpg
+videores_5013A48B_42A5_3D19_41AA_2DAD1006914C.url = media/media_48618459_429D_3D39_41D0_3270EF9C9B3A_pt.mp4
+videores_501D56B2_42A5_3D0B_41C2_7AA0C4086ABE.posterURL = media/media_48658828_429D_3507_41BD_BCE16180B559_poster_pt.jpg
+videores_501D56B2_42A5_3D0B_41C2_7AA0C4086ABE.url = media/media_48658828_429D_3507_41BD_BCE16180B559_pt.mp4
+videores_5001E267_42A5_3509_41BA_5EF77E355CAD.posterURL = media/media_4E184C27_429D_4D09_41C0_CFB19E48657F_poster_pt.jpg
+videores_5001E267_42A5_3509_41BA_5EF77E355CAD.url = media/media_4E184C27_429D_4D09_41C0_CFB19E48657F_pt.mp4
+
+## Skin
+
+### Image
+Image_1021C4C6_0A00_130B_4190_5EC7C0D67311.url = skin/Image_1021C4C6_0A00_130B_4190_5EC7C0D67311_pt.png
+Image_1646ACB0_C561_A655_41E0_86B632FD3D0A.url = skin/Image_1646ACB0_C561_A655_41E0_86B632FD3D0A_pt.gif
+Image_1CC36230_0A00_1708_4191_5FEDC8016EA4.url = skin/Image_1CC36230_0A00_1708_4191_5FEDC8016EA4_pt.png
+Image_1E089929_0A00_F519_419C_0526F40ADDED.url = skin/Image_1E089929_0A00_F519_419C_0526F40ADDED_pt.png
+Image_1FFADCA5_0A00_1309_419D_515AE379958E.url = skin/Image_1FFADCA5_0A00_1309_419D_515AE379958E_pt.png
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile_pt.png
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_pt.png
+Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9.url = skin/Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9_pt.gif
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CCFLORIPA
